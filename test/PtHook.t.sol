@@ -17,8 +17,7 @@ contract PtHookTest is BaseTest {
     address router = 0x0000000001E4ef00d069e71d6bA041b0A16F7eA0;
 
     function setUp() public {
-        // vm.createSelectFork("https://rpc.ankr.com/eth");
-        vm.createSelectFork("http:127.0.0.1:8545");
+        vm.createSelectFork("https://rpc.ankr.com/eth");
         LIQUIDITY_PARAMS =
             IPoolManager.ModifyLiquidityParams({tickLower: -12000, tickUpper: 12000, liquidityDelta: 1e26, salt: 0});
         REMOVE_LIQUIDITY_PARAMS =
