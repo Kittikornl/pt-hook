@@ -59,5 +59,5 @@ $ forge fmt
 
 **Team:**
 
-Product Owner: Pshato0x (Putt Sirisaksopit): EIR & Venture at Symmetry, Co-founder of GovernX Labs (g[x])
-Lead Development: Slippopz (Kittikorn Leelawanich): Senior Blockchain Engineer at Init Capital
+- Product Owner: Pshato0x (Putt Sirisaksopit): EIR & Venture at Symmetry, Co-founder of GovernX Labs (g[x]
+- Lead Development: Slippopz (Kittikorn Leelawanich): Senior Blockchain Engineer at Init Capital
